@@ -2,6 +2,7 @@ name: medireview
 favicon: null
 layout_spectrum: 0.74717
 typography_spectrum: 0.30223051202483475
+title: Medireview Test
 cta:
   domain: null
   bucket: null
