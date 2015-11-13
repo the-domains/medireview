@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[medireview]]></title>
         <description><![CDATA[medireview]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/medireview/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Nov 2015 18:39:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 Nov 2015 18:44:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/medireview/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://medireview.com/wp-content/uploads/2015/01/TMMR_logowebrd.png">]]></description>
+            <link>https://thegrid.ai/medireview/0af98c9e-f753-4dfb-a251-244fc75d6da9/index.html</link>
+            <guid isPermaLink="false">0af98c9e-f753-4dfb-a251-244fc75d6da9</guid>
+            <pubDate>Fri, 13 Nov 2015 18:43:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test 1]]></title>
             <description><![CDATA[<article><h1>Test 1</h1><p>This is a new post to test the grid.</p></article>]]></description>
-            <link>undefinedtest-1/index.html</link>
+            <link>https://thegrid.ai/medireview/test-1/index.html</link>
             <guid isPermaLink="false">16ec9974-7eae-4a99-b416-7960d4229da4</guid>
             <pubDate>Fri, 13 Nov 2015 18:39:19 GMT</pubDate>
         </item>
